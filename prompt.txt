@@ -1,0 +1,22 @@
+Buatkan sebuah prompt dalam bentuk json untuk generate gambar di google flow dengan struktur berikut:
+HEADER (top of image):
+Large elegant bold text: " Indomie Jumbo " 
+Below it smaller italic text: "✦ Mi Goreng Jumbo ✦" 
+Color: (menyesuaikan dengan product)
+Fitur Utama Produk: 
+Tampilkan detail informasi produk secara jelas pada sisi kanan dan kiri produk
+( INFO STRIP vertical, clean card style, icon)
+Berat  :  126g
+BOTTOM RIGHT CORNER: Solid white rounded box, subtle drop shadow, border radius 12px.
+Content inside:
+Line 1 (large bold red text): "Rp4.000" 
+Line 2 (small black text): "per pcs"
+BOTTOM LEFT CORNER : Griya Bunga Asri Blok MM No 1 (teks color black tanpa border atau box dan beri sedikit efek )(Letakkan di pojok kiri bawah)
+PRODUCT PLACEMENT : product sharp and crisp, high detail on packaging texture.
+FLOATING ELEMENTS AROUND PRODUCT: (buatkan sesuai dengan product)
+Lighting & Mood : 
+Three-point studio lighting, key light from upper left, soft fill light from right,  rim light from behind product creating glowing edge, dramatic but clean.
+BACKGROUND: 
+di meja makan
+soft warm natural light coming from left window,steam/mist effect subtle  in background for freshness feel, bokeh blur f/1.8, clean and premium atmosphere, rasio 1:1.
+Tambahan penting : Produk jangan dibuat mengambang, foto referensi produk jangan diubah baik desain dan warna
